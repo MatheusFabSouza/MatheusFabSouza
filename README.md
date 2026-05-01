@@ -1,3 +1,2 @@
-On GP
-<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/23914b14-48c8-49e0-aa37-e40da9bb4c11" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/22282a08-f8a2-43b4-80fd-c2f99b845ff1" />
 
