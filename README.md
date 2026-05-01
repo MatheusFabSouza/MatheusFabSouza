@@ -1,15 +1,12 @@
 <table border="0">
   <tr>
-    <td align="center" valign="top">
-      <img src="https://i.pinimg.com/webp80/736x/88/9c/5a/889c5a644360d5c6a9137fc702fbdbc7.webp" width="380px" style="border-radius: 50%;">
+    <td align="center">
+      <img src="https://i.pinimg.com/webp80/736x/88/9c/5a/889c5a644360d5c6a9137fc702fbdbc7.webp" width="300px" style="border-radius: 50%;">
       <br>
       <sub><b>heh.</b></sub>
     </td>
-    <td valign="top">
-      <a href="https://github.com/MatheusFabSouza/github-readme-stats">
-        <img height="180em"
-             src="https://github-readme-stats.vercel.app/api?username=MatheusFabSouza&show_icons=true&theme=tokyonight" />
-      </a>
+    <td align="center">
+      <img src="https://i.pinimg.com/originals/04/f5/25/04f525a4a918cd4c29b8d83bccd8db62.gif" width="300px">
     </td>
   </tr>
 </table>
