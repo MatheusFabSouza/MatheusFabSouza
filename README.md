@@ -1,2 +1,2 @@
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/22282a08-f8a2-43b4-80fd-c2f99b845ff1" />
-
+<img width="494" height="312" alt="image" src="https://github.com/user-attachments/assets/3314dd8d-1e2d-4919-ab50-ed2fd28e97a8" />
+xtal
